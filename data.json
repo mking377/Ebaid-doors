@@ -1,0 +1,259 @@
+[
+  {
+    "src": "images/door-armored-1.jpg",
+    "title": "باب مصفح 1",
+    "description": "باب مصفح عصري بمواصفات عالية",
+    "category": "modern",
+    "type": "armored",
+    "price": 10500,
+    "features": [
+      "قفل متعدد ",
+      "السعر شامل التركيب",
+      "مقاوم للحريق",
+      "10 سم مميز ",
+      "مقاوم للكسر"
+    ]
+  },
+  {
+    "src": "images/door-armored-2.jpg",
+    "title": "باب مصفح 2",
+    "description": "باب مصفح كلاسيكي بمظهر فاخر",
+    "category": "modern",
+    "type": "armored",
+    "price": 10500,
+    "features": [
+      "قفل متعدد",
+      "السعر شامل التركيب",
+      "مقاوم للكسر",
+      "مظهر أنيق",
+      "أمان عالي"
+    ]
+  },
+  {
+    "src": "images/door-armored-3.jpg",
+    "title": "باب مصفح 3",
+    "description": "باب مصفح بتصميم أنيق",
+    "category": "modern",
+    "type": "armored",
+    "price": 10500,
+    "features": [
+      "خشب طبيعي",
+      "دهان مقاوم للخدش",
+      " السعر شامل التركيب",
+      "تصميم عصري"
+    ]
+  },
+  {
+    "src": "images/door-armored-4.jpg",
+    "title": "باب مصفح 4",
+    "description": "باب داخلي خشبي بتصميم أنيق",
+    "category": "modern",
+    "type": "armored",
+    "price": 10500,
+    "features": [
+      "خشب طبيعي",
+      "دهان مقاوم للخدش",
+      " السعر شامل التركيب",
+      "تصميم عصري"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-1.jpg",
+    "title": "باب داخلي تركي 1",
+    "description": "باب داخلي تركي خشبي بتصميم أنيق يمزج بين الطابع التقليدي واللمسات العصرية.",
+    "category": "smart",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      "السعر شامل التركيب",
+      "دهان مقاوم للخدش",
+      "عزل صوتي",
+      "تصميم عصري"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-2.jpg",
+    "title": "باب داخلي تركي 2",
+    "description": "باب داخلي تركي من خشب عالي الجودة مع نقوش فريدة تعكس التراث التركي العريق.",
+    "category": "smart",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      "السعر شامل التركيب",
+      "عزل صوتي",
+      "لمسات تقليدية"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-3.jpg",
+    "title": "باب داخلي تركي 3",
+    "description": "باب داخلي تركي بمزيج من الخشب والمعدن، تصميم معاصر يناسب المساحات الفسيحة.",
+    "category": "smart",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      "حلق اكريلك أنيق",
+      "تصميم عصري",
+      "السعر شامل التركيب"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-4.jpg",
+    "title": "باب داخلي تركي 4",
+    "description": "باب داخلي تركي أنيق مع تفاصيل منحوتة يدويًا تضفي لمسة فنية على الديكور.",
+    "category": "wooden",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب عالي الجودة",
+      "تفاصيل فنية",
+      "دهان مقاوم للخدش",
+      "السعر شامل التركيب"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-5.jpg",
+    "title": "باب داخلي تركي 5",
+    "description": "باب داخلي تركي بتصميم كلاسيكي مع عناصر معاصرة، مثالي لغرف المعيشة والصالونات.",
+    "category": "smart",
+    "type": "interior",
+    "price": 8000,
+    "features": [
+      "خشب طبيعي",
+      "تصميم كلاسيكي",
+      "السعر شامل التركيب",
+      "تفاصيل زخرفية"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-6.jpg",
+    "title": "باب داخلي تركي 6",
+    "description": "باب داخلي تركي مع لمسات هندسية دقيقة ونقوش عربية-تركية تجمع بين الأصالة والحداثة.",
+    "category": "smart",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      "نقوش يدوية",
+      "دهان مقاوم للخدش",
+      "السعر شامل التركيب"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-7.jpg",
+    "title": "باب داخلي تركي 7",
+    "description": "باب داخلي تركي فخم مع طبقات متعددة من الخشب، يعكس جودة الصناعة التركية.",
+    "category": "smart",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      "تصميم متعدد الطبقات",
+      "السعر شامل التركيب",
+      "دهان متين"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-8.jpg",
+    "title": "باب داخلي تركي 8",
+    "description": "باب داخلي تركي بتصميم مودرن مع إطار معدني، مثالي للأماكن ذات الديكور العصري.",
+    "category": "smart",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      " حلق اكريبك",
+      "السعر شامل التركيب",
+      "تصميم عصري"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-9.jpg",
+    "title": "باب داخلي تركي 9",
+    "description": "باب داخلي تركي من خشب الزان بتفاصيل منحوتة بدقة، يضفي لمسة من الفخامة على المنزل.",
+    "category": "wooden",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب زان طبيعي",
+      "تفاصيل منحوتة",
+      "دهان مقاوم للخدش",
+      "السعر شامل التركيب"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-10.jpg",
+    "title": "باب داخلي تركي 10",
+    "description": "باب داخلي تركي يجمع بين البساطة والأناقة مع تكنولوجيا حديثة للسلامة.",
+    "category": "smart",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      "تصاميم حديثة",
+      "دهان مقاوم للخدش",
+      "السعر شامل التركيب"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-11.jpg",
+    "title": "باب داخلي تركي 11",
+    "description": "باب داخلي تركي بتصميم مميز مع حواف ناعمة تضفي جمالية استثنائية على أي غرفة.",
+    "category": "smart",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      "حواف ناعمة",
+      "تصميم فريد",
+      "السعر شامل التركيب"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-12.jpg",
+    "title": "باب داخلي تركي 12",
+    "description": "باب داخلي تركي يجسد التقاليد التركية مع لمسات عصرية، مثالي للأبواب الرئيسية في المنازل.",
+    "category": "smart",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      "نقوش تقليدية",
+      "دهان مقاوم للخدش",
+      "السعر شامل التركيب",
+      "تصميم عصري"
+    ]
+  },
+  {
+    "src": "/images/Inside-Door/Room-doors-13.jpg",
+    "title": "باب داخلي 13",
+    "description": "باب داخلي خشبي بتصميم أنيق",
+    "category": "wooden",
+    "type": "interior",
+    "price": 7900,
+    "features": [
+      "خشب طبيعي",
+      "دهان مقاوم للخدش",
+      "السعر شامل التركيب",
+      "تصميم عصري"
+    ]
+  },
+
+  {
+    "src": "images/door-armored-.jpg",
+    "title": "باب داخلي 2",
+    "description": "باب داخلي عصري بألوان متعددة",
+    "category": "modern",
+    "type": "interior",
+    "price": 1800,
+    "features": [
+      "متانة عالية",
+      "تصميم حديث",
+      "مواد عالية الجودة",
+      "ألوان متنوعة"
+    ]
+  }
+]
